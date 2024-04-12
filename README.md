@@ -23,7 +23,9 @@ To configure a Site-to-Site (S2S) VPN connection between your on-premises networ
 
 5. **VPN Device Configuration**:
    - Configure your on-premises VPN device to establish a connection with the Azure VPN gateway. This involves setting up the VPN tunnel, encryption settings, and authentication parameters.
-
+  
+     [VPN Device Configuration](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/VPN%20Device%20Configuration.md)
+     
 6. **Connectivity Testing**:
    - Once the configurations are complete, initiate the VPN connection from your on-premises VPN device to the Azure VPN gateway.
    - Verify connectivity by checking for successful tunnel establishment and testing communication between resources in Azure and your on-premises network.
