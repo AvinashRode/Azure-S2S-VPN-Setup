@@ -18,6 +18,7 @@ To configure a Site-to-Site (S2S) VPN connection between your on-premises networ
 
 
 https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/Configure%20VPN%20Gateway%20in%20Azure
+Configure VPN Gateway in Azure
 
 
 ```bash
