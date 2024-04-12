@@ -21,6 +21,8 @@ To configure a Site-to-Site (S2S) VPN connection between your on-premises networ
 
 4. **Configure Local Network Gateway in Azure**:
    - Define a local network gateway in Azure to represent your on-premises network. This includes specifying the public IP address or address range of your on-premises VPN device.
+     
+      [Configure Local Network Gateway in Azure](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/Configure%20Local%20Network%20Gateway%20in%20Azure.md)
 
 5. **VPN Device Configuration**:
    - Configure your on-premises VPN device to establish a connection with the Azure VPN gateway. This involves setting up the VPN tunnel, encryption settings, and authentication parameters.
