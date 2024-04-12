@@ -32,18 +32,4 @@ To get an accurate estimate, you would need to check the current pricing for Azu
 
 [Download Excel File](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/ExportedEstimate.xlsx)
 
-| Microsoft Azure Estimate |                 |             |                      |                                                                                                                                                  |
-| ------------------------ | --------------- | ----------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Your Estimate            |                 |             |                      |                                                                                                                                                  |
-| Service category         | Service type    | Custom name | Region               | Description                                                                                                                                      | Estimated monthly cost | Estimated upfront cost |
-| Networking               | VPN Gateway     |             | Germany West Central | VPN Gateways, Basic VPN tier, 
-730 gateway hours, 10 S2S tunnels, 
-128 P2S connections, 0 GB, 
-VPN outbound VPN gateway type                        | €24.27 | €0.00 |
-| Networking               | Virtual Network |             |                      | Germany West Central (Virtual Network 1): 100 GB Outbound Data Transfer; Germany West Central (Virtual Network 2): 100 GB Outbound Data Transfer | €3.69 | €0.00 |
-| Networking               | IP Addresses    |             | Germany West Central | Basic (Classic), 1 Dynamic IP Addresses X 730 Hours, 1 Static IP Addresses X 730 Hours                                                           | €2.43 | €0.00 |
-| Support                  |                 |             | Support              |                                                                                                                                                  | €0.00 | €0.00 |
-|                          |                 |             | Licensing Program    | Microsoft Customer Agreement (MCA)                                                                                                               |  |  |
-|                          |                 |             | Billing Account      |                                                                                                                                                  |  |  |
-|                          |                 |             | Billing Profile      |                                                                                                                                                  |  |  |
-|                          |                 |             | Total                |                                                                                                                                                  | €30.39 | €0.00 |
+![Alt Text](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/Your%20Estimate.jpg)
