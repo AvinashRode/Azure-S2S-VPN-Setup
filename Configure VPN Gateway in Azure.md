@@ -11,14 +11,14 @@ Sure, here's a step-by-step guide to configuring a VPN Gateway in Azure:
 5. **Configuration**: In this section, you'll configure the VPN Gateway with the necessary parameters:
    - **VPN Type**: Choose between Policy-based or Route-based VPN. Policy-based VPNs are generally simpler but have limitations in terms of scalability and flexibility. Route-based VPNs offer more flexibility and are recommended for most scenarios.
          Policy-based VPN:
-            - Policy-based VPNs use specific traffic selectors (based on source and destination IP addresses, ports, or protocols) to determine which traffic should be encrypted and sent through the VPN tunnel.
+            - Policy-based VPNs use specific traffic selectors (based on source and destination IP addresses, ports, or protocols) to                     determine which traffic should be encrypted and sent through the VPN tunnel.
             - Simple in Configuration.
             - limited in scalability.
             - They are typically used for connecting on-premises networks with basic networking requirements.
          
          Route-based VPN:
             - Route-based VPNs use routes (IP addresses and subnets) to determine which traffic should be sent through the VPN tunnel.
-            - More flexibility and scalability, allowing for more complex networking configurations and support for dynamic routing protocols.
+            - More flexibility and scalability, allowing for more complex networking configurations and support for dynamic routing                       protocols.
             - Suitable for larger-scale deployments, multi-site connectivity, and for dynamic routing updates.
             - Better resilience and failover capabilities.
 
