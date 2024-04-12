@@ -2,6 +2,8 @@
 
 To estimate the monthly cost of the Azure setup described, you'll need to consider the pricing for the various resources involved. Here's a breakdown of potential costs:
 
+![Alt Text](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/ExportedEstimate.xlsx)
+
 
 1. **VPN Gateway**:
    - Azure VPN Gateway pricing depends on the SKU (Basic or VpnGw1, VpnGw2, VpnGw3) and the amount of data transferred. Pricing is based on an hourly rate and varies by region.
