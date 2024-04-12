@@ -32,6 +32,8 @@ To configure a Site-to-Site (S2S) VPN connection between your on-premises networ
 6. **Connectivity Testing**:
    - Once the configurations are complete, initiate the VPN connection from your on-premises VPN device to the Azure VPN gateway.
    - Verify connectivity by checking for successful tunnel establishment and testing communication between resources in Azure and your on-premises network.
+  
+      [Connectivity Testing](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/Connectivity%20Testing.md)
 
 7. **Network Routing**:
    - Ensure that appropriate network routing is configured on both the on-premises network and Azure to direct traffic between the two networks through the VPN tunnel.
