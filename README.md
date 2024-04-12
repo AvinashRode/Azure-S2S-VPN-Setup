@@ -12,7 +12,7 @@ To configure a Site-to-Site (S2S) VPN connection between your on-premises networ
    - **Public IP Address**: Allocate a public IP address for the VPN gateway.
    - **Local Network Gateway**: Define a local network gateway in Azure to represent your on-premises network.
   
-     [Costing for Azure-S2S-VPN-Setup](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/Costing%20for%20Azure-S2S-VPN-Setup.md)
+    Here is the rough costing for our setup [Costing for Azure-S2S-VPN-Setup](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/Costing%20for%20Azure-S2S-VPN-Setup.md)
 
 2. **On-Premises Setup**: <img src="https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/Open%20VPN.png" alt="Alt Text" width="20" height="20">
    - **On-premises VPN**: Have a compatible VPN device or software running on your on-premises network.
