@@ -1,3 +1,5 @@
+## Configure VPN Gateway in Azure
+
 Sure, here's a step-by-step guide to configure a VPN Gateway in Azure:
 
 1. **Sign in to the Azure Portal**: Go to https://portal.azure.com and sign in with your Azure account.
