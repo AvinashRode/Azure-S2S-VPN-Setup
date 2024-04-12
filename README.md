@@ -15,6 +15,11 @@ To configure a Site-to-Site (S2S) VPN connection between your on-premises networ
 
 3. **Configure VPN Gateway in Azure**:
    - When configuring a VPN gateway in Azure, you'll need to choose between two VPN types: Policy-based or Route-based (also known as static-routing or dynamic-routing). The choice between the two depends on your specific network requirements and configurations:
+
+```http
+  GET /api/items
+```
+
 ```bash
 Policy-based VPN:
    - Policy-based VPNs use specific traffic selectors (based on source and destination IP addresses, ports, or protocols) to determine which traffic should be encrypted and sent through the VPN tunnel.
