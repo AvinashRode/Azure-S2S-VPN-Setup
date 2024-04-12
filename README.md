@@ -2,7 +2,7 @@
 
 To configure a Site-to-Site (S2S) VPN connection between your on-premises network and Azure, you'll need several components and steps:
 
-<img src="https://github.com/AvinashRode/Azure-S2S-VPN-Setup/raw/main/S2S%20VPN.jpg" alt="Alt Text" width="400" height="300">
+<img src="https://github.com/AvinashRode/Azure-S2S-VPN-Setup/raw/main/S2S%20VPN.jpg" alt="Alt Text" width="600" height="300">
 
 1. **Azure Setup**:
    - **Virtual Network**: Create a virtual network (VNet) in the Azure portal.
