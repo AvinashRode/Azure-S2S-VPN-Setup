@@ -1,4 +1,4 @@
-
+## VPN Device Configuration
 
 Using OpenVPN for your on-premises VPN connection to Azure is a feasible option. Here's how you can proceed with setting up OpenVPN for this purpose:
 
