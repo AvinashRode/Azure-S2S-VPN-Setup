@@ -2,7 +2,7 @@
 
 To estimate the monthly cost of the Azure setup described, you'll need to consider the pricing for the various resources involved. Here's a breakdown of potential costs:
 
-![Alt Text](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/ExportedEstimate.xlsx)
+[Download Excel File](https://github.com/AvinashRode/Azure-S2S-VPN-Setup/blob/main/ExportedEstimate.xlsx)
 
 
 1. **VPN Gateway**:
